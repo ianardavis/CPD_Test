@@ -1,0 +1,6 @@
+*.jpg
+*.mp4
+*.avi
+
+.env
+\ignore_me\
